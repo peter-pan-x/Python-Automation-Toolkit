@@ -6,7 +6,9 @@ This repository contains a collection of powerful, reusable Python scripts desig
 
 - **Web Scraper**: A robust web scraper with proxy support, retry logic, and clean data extraction.
 - **PDF to Word**: Convert PDF documents into editable Word (.docx) files.
-- **More to come...**
+- **Steganography Tool**: Hide secret messages inside images using LSB encoding.
+- **Market Alert**: Real-time crypto price monitor with alerts.
+- **Auto-Vlog**: Automatically merge video clips into a single file.
 
 ## Installation
 
